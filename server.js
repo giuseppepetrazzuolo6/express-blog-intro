@@ -43,5 +43,5 @@ const foods = [
 
 
 app.listen(PORT, () => {
-    console.log(`Example app listening on port:${PORT}`);
+    console.log(`Server running on http://localhost:${PORT}`);
 })
